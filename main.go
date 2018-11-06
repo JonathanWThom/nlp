@@ -2,6 +2,7 @@
 package main
 
 import (
+	"bufio"
 	"context"
 	"flag"
 	"fmt"
@@ -15,24 +16,27 @@ import (
 func main() {
 	var text, output string
 	flag.StringVar(&text, "t", "", "Text to be analyzed")
-	// 	flag.String(output, "o", "File to write to, defaults to stdout")
+	flag.StringVar(&output, "o", "", "File to write to, defaults to stdout")
 	flag.Parse()
 
 	if text == "" {
 		log.Fatalf("Must enter text with flag -t [your_text_here]")
 	}
 
-	w := os.Stdout
-	//	var file *os.File
+	var w *bufio.Writer
 
 	if output != "" {
-		file, err := os.OpenFile("output.txt", os.O_WRONLY|os.O_CREATE, 0666)
+		file, err := os.OpenFile(output, os.O_WRONLY|os.O_CREATE, 0777)
 		if err != nil {
 			log.Fatalf("File cannot be created")
 		}
 		defer file.Close()
-		// 	w = bufio.NewWriter(file)
+		w = bufio.NewWriter(file)
+	} else {
+		w = bufio.NewWriter(os.Stdout)
 	}
+
+	defer w.Flush()
 
 	ctx := context.Background()
 	client, err := language.NewClient(ctx)
