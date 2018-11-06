@@ -1,0 +1,2753 @@
+TEXT:
+
+		He was an old man who fished alone in a skiff in the Gulf Stream and he had
+		gone eighty-four days now without taking a fish. In the first forty days a
+		boy had been with him. But after forty days without a fish the boy's parents
+		had told him that the old man was now definitely and finally salao, which is
+		the worst form of unlucky, and the boy had gone at their orders in another
+		boat which caught three good fish the first week. It made the boy sad to see
+		the old man come in each day with his skiff empty and he always went down to
+		help him carry either the coiled lines or the gaff and harpoon and the sail
+		that was furled around the mast. The sail was patched with flour sacks and,
+		furled, it looked like the flag of permanent defeat.
+	
+
+SENTENCE: He was an old man who fished alone in a skiff in the Gulf Stream and he had
+		gone eighty-four days now without taking a fish.
+
+Content: He
+Part of Speech (Tag): PRON
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): MASCULINE
+Part of Speech (Case): NOMINATIVE
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 1
+Dependency Edge (Label): NSUBJ
+Lemma: He
+
+Content: was
+Part of Speech (Tag): VERB
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 1
+Dependency Edge (Label): ROOT
+Lemma: be
+
+Content: an
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 4
+Dependency Edge (Label): DET
+Lemma: an
+
+Content: old
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 4
+Dependency Edge (Label): AMOD
+Lemma: old
+
+Content: man
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 1
+Dependency Edge (Label): ATTR
+Lemma: man
+
+Content: who
+Part of Speech (Tag): PRON
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): THIRD
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 6
+Dependency Edge (Label): NSUBJ
+Lemma: who
+
+Content: fished
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 4
+Dependency Edge (Label): RCMOD
+Lemma: fish
+
+Content: alone
+Part of Speech (Tag): ADV
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 6
+Dependency Edge (Label): ADVMOD
+Lemma: alone
+
+Content: in
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 6
+Dependency Edge (Label): PREP
+Lemma: in
+
+Content: a
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 10
+Dependency Edge (Label): DET
+Lemma: a
+
+Content: skiff
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 8
+Dependency Edge (Label): POBJ
+Lemma: skiff
+
+Content: in
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 10
+Dependency Edge (Label): PREP
+Lemma: in
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 14
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: Gulf
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 14
+Dependency Edge (Label): NN
+Lemma: Gulf
+
+Content: Stream
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 11
+Dependency Edge (Label): POBJ
+Lemma: Stream
+
+Content: and
+Part of Speech (Tag): CONJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 6
+Dependency Edge (Label): CC
+Lemma: and
+
+Content: he
+Part of Speech (Tag): PRON
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): MASCULINE
+Part of Speech (Case): NOMINATIVE
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 18
+Dependency Edge (Label): NSUBJ
+Lemma: he
+
+Content: had
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 18
+Dependency Edge (Label): AUX
+Lemma: have
+
+Content: gone
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 6
+Dependency Edge (Label): CONJ
+Lemma: go
+
+Content: eighty
+Part of Speech (Tag): NUM
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 21
+Dependency Edge (Label): NUMBER
+Lemma: eighty
+
+Content: -
+Part of Speech (Tag): PUNCT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 21
+Dependency Edge (Label): P
+Lemma: -
+
+Content: four
+Part of Speech (Tag): NUM
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 22
+Dependency Edge (Label): NUM
+Lemma: four
+
+Content: days
+Part of Speech (Tag): NOUN
+Part of Speech (Number): PLURAL
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 18
+Dependency Edge (Label): TMOD
+Lemma: day
+
+Content: now
+Part of Speech (Tag): ADV
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 18
+Dependency Edge (Label): ADVMOD
+Lemma: now
+
+Content: without
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 18
+Dependency Edge (Label): PREP
+Lemma: without
+
+Content: taking
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 24
+Dependency Edge (Label): PCOMP
+Lemma: take
+
+Content: a
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 27
+Dependency Edge (Label): DET
+Lemma: a
+
+Content: fish
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 25
+Dependency Edge (Label): DOBJ
+Lemma: fish
+
+Content: .
+Part of Speech (Tag): PUNCT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 1
+Dependency Edge (Label): P
+Lemma: .
+
+SENTENCE: In the first forty days a
+		boy had been with him.
+
+Content: In
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 37
+Dependency Edge (Label): PREP
+Lemma: In
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 33
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: first
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 33
+Dependency Edge (Label): AMOD
+Lemma: first
+
+Content: forty
+Part of Speech (Tag): NUM
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 33
+Dependency Edge (Label): NUM
+Lemma: forty
+
+Content: days
+Part of Speech (Tag): NOUN
+Part of Speech (Number): PLURAL
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 29
+Dependency Edge (Label): POBJ
+Lemma: day
+
+Content: a
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 35
+Dependency Edge (Label): DET
+Lemma: a
+
+Content: boy
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 37
+Dependency Edge (Label): NSUBJ
+Lemma: boy
+
+Content: had
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 37
+Dependency Edge (Label): AUX
+Lemma: have
+
+Content: been
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 37
+Dependency Edge (Label): ROOT
+Lemma: be
+
+Content: with
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 37
+Dependency Edge (Label): PREP
+Lemma: with
+
+Content: him
+Part of Speech (Tag): PRON
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): MASCULINE
+Part of Speech (Case): ACCUSATIVE
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 38
+Dependency Edge (Label): POBJ
+Lemma: him
+
+Content: .
+Part of Speech (Tag): PUNCT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 37
+Dependency Edge (Label): P
+Lemma: .
+
+SENTENCE: But after forty days without a fish the boy's parents
+		had told him that the old man was now definitely and finally salao, which is
+		the worst form of unlucky, and the boy had gone at their orders in another
+		boat which caught three good fish the first week.
+
+Content: But
+Part of Speech (Tag): CONJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): CC
+Lemma: But
+
+Content: after
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): PREP
+Lemma: after
+
+Content: forty
+Part of Speech (Tag): NUM
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 44
+Dependency Edge (Label): NUM
+Lemma: forty
+
+Content: days
+Part of Speech (Tag): NOUN
+Part of Speech (Number): PLURAL
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 42
+Dependency Edge (Label): POBJ
+Lemma: day
+
+Content: without
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 44
+Dependency Edge (Label): PREP
+Lemma: without
+
+Content: a
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 47
+Dependency Edge (Label): DET
+Lemma: a
+
+Content: fish
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 45
+Dependency Edge (Label): POBJ
+Lemma: fish
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 49
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: boy
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 51
+Dependency Edge (Label): POSS
+Lemma: boy
+
+Content: 's
+Part of Speech (Tag): PRT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 49
+Dependency Edge (Label): PS
+Lemma: 's
+
+Content: parents
+Part of Speech (Tag): NOUN
+Part of Speech (Number): PLURAL
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): NSUBJ
+Lemma: parent
+
+Content: had
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): AUX
+Lemma: have
+
+Content: told
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): ROOT
+Lemma: tell
+
+Content: him
+Part of Speech (Tag): PRON
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): MASCULINE
+Part of Speech (Case): ACCUSATIVE
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): DOBJ
+Lemma: him
+
+Content: that
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 59
+Dependency Edge (Label): MARK
+Lemma: that
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 58
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: old
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 58
+Dependency Edge (Label): AMOD
+Lemma: old
+
+Content: man
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 59
+Dependency Edge (Label): NSUBJ
+Lemma: man
+
+Content: was
+Part of Speech (Tag): VERB
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): CCOMP
+Lemma: be
+
+Content: now
+Part of Speech (Tag): ADV
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 59
+Dependency Edge (Label): ADVMOD
+Lemma: now
+
+Content: definitely
+Part of Speech (Tag): ADV
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 59
+Dependency Edge (Label): ADVMOD
+Lemma: definitely
+
+Content: and
+Part of Speech (Tag): CONJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 61
+Dependency Edge (Label): CC
+Lemma: and
+
+Content: finally
+Part of Speech (Tag): ADV
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 64
+Dependency Edge (Label): ADVMOD
+Lemma: finally
+
+Content: salao
+Part of Speech (Tag): ADV
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 61
+Dependency Edge (Label): CONJ
+Lemma: salao
+
+Content: ,
+Part of Speech (Tag): PUNCT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 59
+Dependency Edge (Label): P
+Lemma: ,
+
+Content: which
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 67
+Dependency Edge (Label): NSUBJ
+Lemma: which
+
+Content: is
+Part of Speech (Tag): VERB
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PRESENT
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 59
+Dependency Edge (Label): CCOMP
+Lemma: be
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 70
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: worst
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 70
+Dependency Edge (Label): AMOD
+Lemma: bad
+
+Content: form
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 67
+Dependency Edge (Label): ATTR
+Lemma: form
+
+Content: of
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 70
+Dependency Edge (Label): PREP
+Lemma: of
+
+Content: unlucky
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 71
+Dependency Edge (Label): POBJ
+Lemma: unlucky
+
+Content: ,
+Part of Speech (Tag): PUNCT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): P
+Lemma: ,
+
+Content: and
+Part of Speech (Tag): CONJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): CC
+Lemma: and
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 76
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: boy
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 78
+Dependency Edge (Label): NSUBJ
+Lemma: boy
+
+Content: had
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 78
+Dependency Edge (Label): AUX
+Lemma: have
+
+Content: gone
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): CONJ
+Lemma: go
+
+Content: at
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 78
+Dependency Edge (Label): PREP
+Lemma: at
+
+Content: their
+Part of Speech (Tag): PRON
+Part of Speech (Number): PLURAL
+Part of Speech (Person): THIRD
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): GENITIVE
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 81
+Dependency Edge (Label): POSS
+Lemma: their
+
+Content: orders
+Part of Speech (Tag): NOUN
+Part of Speech (Number): PLURAL
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 79
+Dependency Edge (Label): POBJ
+Lemma: order
+
+Content: in
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 78
+Dependency Edge (Label): PREP
+Lemma: in
+
+Content: another
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 84
+Dependency Edge (Label): DET
+Lemma: another
+
+Content: boat
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 82
+Dependency Edge (Label): POBJ
+Lemma: boat
+
+Content: which
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 86
+Dependency Edge (Label): NSUBJ
+Lemma: which
+
+Content: caught
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 84
+Dependency Edge (Label): RCMOD
+Lemma: catch
+
+Content: three
+Part of Speech (Tag): NUM
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 89
+Dependency Edge (Label): NUM
+Lemma: three
+
+Content: good
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 89
+Dependency Edge (Label): AMOD
+Lemma: good
+
+Content: fish
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 86
+Dependency Edge (Label): DOBJ
+Lemma: fish
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 92
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: first
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 92
+Dependency Edge (Label): AMOD
+Lemma: first
+
+Content: week
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 86
+Dependency Edge (Label): TMOD
+Lemma: week
+
+Content: .
+Part of Speech (Tag): PUNCT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 53
+Dependency Edge (Label): P
+Lemma: .
+
+SENTENCE: It made the boy sad to see
+		the old man come in each day with his skiff empty and he always went down to
+		help him carry either the coiled lines or the gaff and harpoon and the sail
+		that was furled around the mast.
+
+Content: It
+Part of Speech (Tag): PRON
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): NEUTER
+Part of Speech (Case): NOMINATIVE
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 95
+Dependency Edge (Label): NSUBJ
+Lemma: It
+
+Content: made
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 95
+Dependency Edge (Label): ROOT
+Lemma: make
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 97
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: boy
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 98
+Dependency Edge (Label): NSUBJ
+Lemma: boy
+
+Content: sad
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 95
+Dependency Edge (Label): ACOMP
+Lemma: sad
+
+Content: to
+Part of Speech (Tag): PRT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 100
+Dependency Edge (Label): AUX
+Lemma: to
+
+Content: see
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 95
+Dependency Edge (Label): XCOMP
+Lemma: see
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 103
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: old
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 103
+Dependency Edge (Label): AMOD
+Lemma: old
+
+Content: man
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 104
+Dependency Edge (Label): NSUBJ
+Lemma: man
+
+Content: come
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PRESENT
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 100
+Dependency Edge (Label): CCOMP
+Lemma: come
+
+Content: in
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 104
+Dependency Edge (Label): PREP
+Lemma: in
+
+Content: each
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 107
+Dependency Edge (Label): DET
+Lemma: each
+
+Content: day
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 105
+Dependency Edge (Label): POBJ
+Lemma: day
+
+Content: with
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 104
+Dependency Edge (Label): PREP
+Lemma: with
+
+Content: his
+Part of Speech (Tag): PRON
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): MASCULINE
+Part of Speech (Case): GENITIVE
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 110
+Dependency Edge (Label): POSS
+Lemma: his
+
+Content: skiff
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 108
+Dependency Edge (Label): POBJ
+Lemma: skiff
+
+Content: empty
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 110
+Dependency Edge (Label): AMOD
+Lemma: empty
+
+Content: and
+Part of Speech (Tag): CONJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 95
+Dependency Edge (Label): CC
+Lemma: and
+
+Content: he
+Part of Speech (Tag): PRON
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): MASCULINE
+Part of Speech (Case): NOMINATIVE
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 115
+Dependency Edge (Label): NSUBJ
+Lemma: he
+
+Content: always
+Part of Speech (Tag): ADV
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 115
+Dependency Edge (Label): ADVMOD
+Lemma: always
+
+Content: went
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 95
+Dependency Edge (Label): CONJ
+Lemma: go
+
+Content: down
+Part of Speech (Tag): ADV
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 115
+Dependency Edge (Label): ADVMOD
+Lemma: down
+
+Content: to
+Part of Speech (Tag): PRT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 118
+Dependency Edge (Label): AUX
+Lemma: to
+
+Content: help
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 115
+Dependency Edge (Label): XCOMP
+Lemma: help
+
+Content: him
+Part of Speech (Tag): PRON
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): MASCULINE
+Part of Speech (Case): ACCUSATIVE
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 120
+Dependency Edge (Label): NSUBJ
+Lemma: him
+
+Content: carry
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 118
+Dependency Edge (Label): CCOMP
+Lemma: carry
+
+Content: either
+Part of Speech (Tag): CONJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 124
+Dependency Edge (Label): PRECONJ
+Lemma: either
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 124
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: coiled
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 124
+Dependency Edge (Label): AMOD
+Lemma: coil
+
+Content: lines
+Part of Speech (Tag): NOUN
+Part of Speech (Number): PLURAL
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 120
+Dependency Edge (Label): DOBJ
+Lemma: line
+
+Content: or
+Part of Speech (Tag): CONJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 124
+Dependency Edge (Label): CC
+Lemma: or
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 127
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: gaff
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 124
+Dependency Edge (Label): CONJ
+Lemma: gaff
+
+Content: and
+Part of Speech (Tag): CONJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 127
+Dependency Edge (Label): CC
+Lemma: and
+
+Content: harpoon
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 127
+Dependency Edge (Label): CONJ
+Lemma: harpoon
+
+Content: and
+Part of Speech (Tag): CONJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 127
+Dependency Edge (Label): CC
+Lemma: and
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 132
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: sail
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 127
+Dependency Edge (Label): CONJ
+Lemma: sail
+
+Content: that
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 135
+Dependency Edge (Label): NSUBJPASS
+Lemma: that
+
+Content: was
+Part of Speech (Tag): VERB
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 135
+Dependency Edge (Label): AUXPASS
+Lemma: be
+
+Content: furled
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): PASSIVE
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 132
+Dependency Edge (Label): RCMOD
+Lemma: furl
+
+Content: around
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 135
+Dependency Edge (Label): PREP
+Lemma: around
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 138
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: mast
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 136
+Dependency Edge (Label): POBJ
+Lemma: mast
+
+Content: .
+Part of Speech (Tag): PUNCT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 95
+Dependency Edge (Label): P
+Lemma: .
+
+SENTENCE: The sail was patched with flour sacks and,
+		furled, it looked like the flag of permanent defeat.
+
+Content: The
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 141
+Dependency Edge (Label): DET
+Lemma: The
+
+Content: sail
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 143
+Dependency Edge (Label): NSUBJPASS
+Lemma: sail
+
+Content: was
+Part of Speech (Tag): VERB
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 143
+Dependency Edge (Label): AUXPASS
+Lemma: be
+
+Content: patched
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): PASSIVE
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 143
+Dependency Edge (Label): ROOT
+Lemma: patch
+
+Content: with
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 143
+Dependency Edge (Label): PREP
+Lemma: with
+
+Content: flour
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 146
+Dependency Edge (Label): NN
+Lemma: flour
+
+Content: sacks
+Part of Speech (Tag): NOUN
+Part of Speech (Number): PLURAL
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 144
+Dependency Edge (Label): POBJ
+Lemma: sack
+
+Content: and
+Part of Speech (Tag): CONJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 143
+Dependency Edge (Label): CC
+Lemma: and
+
+Content: ,
+Part of Speech (Tag): PUNCT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 143
+Dependency Edge (Label): P
+Lemma: ,
+
+Content: furled
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 143
+Dependency Edge (Label): DEP
+Lemma: furl
+
+Content: ,
+Part of Speech (Tag): PUNCT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 143
+Dependency Edge (Label): P
+Lemma: ,
+
+Content: it
+Part of Speech (Tag): PRON
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): THIRD
+Part of Speech (Gender): NEUTER
+Part of Speech (Case): NOMINATIVE
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 152
+Dependency Edge (Label): NSUBJ
+Lemma: it
+
+Content: looked
+Part of Speech (Tag): VERB
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): PAST
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): INDICATIVE
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 143
+Dependency Edge (Label): PARATAXIS
+Lemma: look
+
+Content: like
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 152
+Dependency Edge (Label): PREP
+Lemma: like
+
+Content: the
+Part of Speech (Tag): DET
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 155
+Dependency Edge (Label): DET
+Lemma: the
+
+Content: flag
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 153
+Dependency Edge (Label): POBJ
+Lemma: flag
+
+Content: of
+Part of Speech (Tag): ADP
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 155
+Dependency Edge (Label): PREP
+Lemma: of
+
+Content: permanent
+Part of Speech (Tag): ADJ
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 158
+Dependency Edge (Label): AMOD
+Lemma: permanent
+
+Content: defeat
+Part of Speech (Tag): NOUN
+Part of Speech (Number): SINGULAR
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 156
+Dependency Edge (Label): POBJ
+Lemma: defeat
+
+Content: .
+Part of Speech (Tag): PUNCT
+Part of Speech (Number): NUMBER_UNKNOWN
+Part of Speech (Person): PERSON_UNKNOWN
+Part of Speech (Gender): GENDER_UNKNOWN
+Part of Speech (Case): CASE_UNKNOWN
+Part of Speech (Tense): TENSE_UNKNOWN
+Part of Speech (Aspect): ASPECT_UNKNOWN
+Part of Speech (Mood): MOOD_UNKNOWN
+Part of Speech (Voice): VOICE_UNKNOWN
+Part of Speech (Reciprocity): RECIPROCITY_UNKNOWN
+Part of Speech (Proper): PROPER_UNKNOWN
+Part of Speech (Form): FORM_UNKNOWN
+Dependency Edge (Head Token Index): 143
+Dependency Edge (Label): P
+Lemma: .
+
